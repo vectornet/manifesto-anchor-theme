@@ -134,7 +134,7 @@
 /* #Links
 ================================================== */
 	a, a:visited {
-		color: #c6583d;
+		color: #4a8ed0;
 		outline: 0;
 		text-decoration: none;
 		-webkit-transition: .3s ease color;
@@ -142,7 +142,7 @@
 				 -o-transition: .3s ease color;
 						transition: .3s ease color;
 	}
-	a:hover, a:focus { color: #71220e; text-decoration: underline; }
+	a:hover, a:focus { color: #2252a3; text-decoration: underline; }
 	p a, p a:visited { line-height: inherit; }
 	
 	a.dark { color: #404646; }

@@ -60,7 +60,7 @@
 	font-size: 24px;
 	font-weight: 300;
 	text-transform: uppercase;
-	background: #e77559;
+	background: #4a8ed0;
 }
 .site-header__logo a {
 	padding: 15px 20px;
@@ -144,7 +144,7 @@ a.site-header__menu-trigger {
 .site-menu__item-link, .site-menu__item-link:visited {
 	display: block;
 	padding: 10px;
-	color: #e77559;
+	color: #4a8ed0;
 	text-decoration: none;
 	-webkit-transition: .2s ease all;
 		 -moz-transition: .2s ease all;
@@ -154,7 +154,7 @@ a.site-header__menu-trigger {
 .site-menu__item-link:hover {
 	background-color: rgba(0,0,0,.075);
 	color: #fff;
-	border-left: 6px solid #c6583d;
+	border-left: 6px solid #4a8ed0;
 	padding-left: 15px;
 	text-decoration: none;
 }
@@ -221,7 +221,7 @@ input[type="search"].site-search__search-term:focus {
 .site-search :-ms-input-placeholder { color: #999; }
 
 .site-footer {
-	border-top: 4px solid #e77559;
+	border-top: 4px solid #2252a3;
 	padding: 20px 0;
 	background: #404646 url('../img/bg-noise-dark.png') repeat 0 0 scroll;
 	font-family: "Ubuntu", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -232,7 +232,7 @@ input[type="search"].site-search__search-term:focus {
 	font-size: 12px;
 	line-height: 20px;
 }
-.site-footer a:link, .site-footer a:visited { color: #e77559; }
+.site-footer a:link, .site-footer a:visited { color: #4a8ed0; }
 .site-footer a:hover { color: #fff; }
 
 .site-copyright { 
@@ -398,11 +398,11 @@ input[type="search"].site-search__search-term:focus {
 	float: right;
 	margin: 0;
 	padding: 5px 10px;
-	background: #e77559;
+	background: #4a8ed0;
 	color: #fff;
 }
 .footer-meta__tweet:hover {
-	background-color: #c6583d;
+	background-color: #2252a3;
 	color: #fff;
 	text-decoration: none;
 }
