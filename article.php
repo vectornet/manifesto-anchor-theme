@@ -74,8 +74,9 @@
 					<a href="#article-comments"><?php echo total_comments(); ?> comments</a>
 				</span>
 				<?php endif; ?>
+				<!--
 				<a class="footer-meta__tweet" href="http://twitter.com/share?url=<?php echo full_url(); ?>&text=<?php echo article_title(); ?><?php if(site_meta('twitter_account')): ?>&via=<?php echo site_meta('twitter_account'); ?><?php endif; ?>" target="_blank"><span class="icon-stat"><i class="fa fa-twitter"></i></span>
-				Tweet This</a>
+				Tweet This</a>-->
 			</div>
 		</footer>
 		
