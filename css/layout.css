@@ -59,7 +59,8 @@
 	vertical-align: middle;
 	font-size: 24px;
 	font-weight: 300;
-	background: #4a8ed0;
+	background: url(../img/vectordev-logo.png) no-repeat 10px #4a8ed0;
+	padding-left: 100px;
 }
 .site-header__logo a {
 	padding: 15px 20px;
@@ -80,7 +81,7 @@
 	margin: 0;
 	vertical-align: middle;
 	padding-left: 10px;
-	font-size: 11px;
+	font-size: 14px;
 	line-height: 28px;
 	color: #ddd;
 	opacity: .65;

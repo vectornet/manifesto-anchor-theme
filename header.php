@@ -16,8 +16,8 @@
 		<link rel="stylesheet" href="<?php echo theme_url('/css/base.css'); ?>">
 		<link rel="stylesheet" href="<?php echo theme_url('/css/skeleton-fluid.css'); ?>">
 		<link rel="stylesheet" href="<?php echo theme_url('/css/layout.css'); ?>">
-		<link href='http://fonts.googleapis.com/css?family=Montserrat:400|Ubuntu:300,300italic,700,700italic|PT+Serif:400,400italic,700,700italic' rel='stylesheet' type='text/css'>
-		<link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+		<link href='https://fonts.googleapis.com/css?family=Montserrat:400|Ubuntu:300,300italic,700,700italic|PT+Serif:400,400italic,700,700italic' rel='stylesheet' type='text/css'>
+		<link href="https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
 
     <link rel="alternate" type="application/rss+xml" title="RSS" href="<?php echo rss_url(); ?>">
     <link rel="shortcut icon" href="<?php echo theme_url('img/favicon.png'); ?>">
